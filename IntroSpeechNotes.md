@@ -16,7 +16,7 @@ Pacing / Help
 - etherpad https://etherpad.wikimedia.org/p/2016-04-25-Stanford
 
 Surveys
-- skills pre-assessment survey
+- skills pre-assessment survey (http://goo.gl/forms/AjEZXTk8qM)
 - SCW pre-workshop survey (https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=2016-04-25-Stanford)
 
 Ice breaker
