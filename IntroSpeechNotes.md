@@ -4,8 +4,9 @@ Welcome
 - why we're teaching what we are (how to think/design/organise as well as how to code)
 
 Introductions
-- introduce instructors
-- introduce TAs
+- instructors
+- TAs
+- organisers(?)
 
 Pacing
 - have to go at an average pace for the room
@@ -13,7 +14,8 @@ Pacing
 - if it's too slow or you're bored...
 - explain post-its
 
-Survey
+Surveys
 - skills pre-assessment survey
+- SCW pre-workshop survey
 
 Ice breaker
