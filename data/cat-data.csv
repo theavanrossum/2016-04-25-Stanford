@@ -1,4 +1,4 @@
-name,coat,weight,likes_string
+catName,coat,weight,likesString
 spots,calico,2.1,TRUE
 lucky,black,5.0,FALSE
 tiger,tabby,3.2,TRUE

@@ -1,0 +1,5 @@
+catName,coat,weight,likesString,expGroup
+spots,calico,2.1,TRUE,case
+lucky,black,5.0,FALSE,control
+tiger,tabby,3.2,TRUE,case
+tim,calico,4.2,TRUE,control
